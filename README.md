@@ -31,5 +31,5 @@ This portfolio app consists of the following pages:
 
 ## Credits
 
-- This portfolio app was created by [Your Name].
+- This portfolio app was created by Nicholas Lopez.
 - Icons used in the project are from [Font Awesome](https://fontawesome.com/).
