@@ -83,4 +83,9 @@ footer {
 }
 .footer-ul li a i {
   font-size: 50px;
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+.footer-ul li a i:hover {
+  transform: scale(1.2);
+  color: #ff6600;
 }
